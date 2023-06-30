@@ -1,0 +1,12 @@
+.container{
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+
+.arraya{
+    width: 5px;
+    background-color: #afdede;
+    display: inline-block;
+    margin: 0 1px;
+}
